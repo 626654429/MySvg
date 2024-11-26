@@ -1,0 +1,22 @@
+<svg width="186.630615" height="93.630615" viewBox="0 0 186.631 93.6306" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_1_4_0" x1="185.815308" y1="92.815308" x2="185.815308" y2="0.815308" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#006A76"/>
+			<stop offset="0.250000" stop-color="#002C41" stop-opacity="0.698039"/>
+			<stop offset="0.500000" stop-color="#000A25" stop-opacity="0.000000"/>
+			<stop offset="0.730000" stop-color="#002139" stop-opacity="0.698039"/>
+			<stop offset="1.000000" stop-color="#005262"/>
+		</linearGradient>
+	</defs>
+	<path id="path" d="M185.815 83.8153L155.912 83.8153L149.261 92.8153L0.815308 92.8153L0.815308 6.81531L64.0204 6.81531L68.1472 0.815308L185.815 0.815308L185.815 83.8153Z" fill-rule="nonzero" fill="url(#paint_linear_1_4_0)"/>
+	<mask id="mask1_7" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.815308" y="0.815308" width="185.000000" height="92.000000">
+		<path id="path" d="M185.815 83.8153L155.912 83.8153L149.261 92.8153L0.815308 92.8153L0.815308 6.81531L64.0204 6.81531L68.1472 0.815308L185.815 0.815308L185.815 83.8153Z" fill-rule="evenodd" fill="#FFFFFF"/>
+		<path id="path" d="M155.912 83.8153L149.261 92.8153L0.815308 92.8153L0.815308 6.81531L64.0204 6.81531L68.1472 0.815308L185.815 0.815308L185.815 83.8153L155.912 83.8153Z" stroke="#23FFF9" stroke-width="1.630588"/>
+	</mask>
+	<g mask="url(#mask1_7)">
+		<path id="path" d="M155.912 83.8153L149.261 92.8153L0.815308 92.8153L0.815308 6.81531L64.0204 6.81531L68.1472 0.815308L185.815 0.815308L185.815 83.8153L155.912 83.8153Z" stroke="#23FFF9" stroke-opacity="0.274510" stroke-width="1.630588"/>
+	</g>
+</svg>
